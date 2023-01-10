@@ -1,6 +1,6 @@
 # Multi-class-Text-Classification
 
-Classify articles into five classes using BBC text data, which contains more than 2000 articles. LSTM was utilized in this project.
+LSTM to classify articles into five classes using BBC text data, which contains more than 2000 articles.
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
