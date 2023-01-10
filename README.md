@@ -14,6 +14,8 @@ LSTM to classify articles into five classes using BBC text data, which contains 
 ![Model](https://github.com/Nesan135/Multi-class-Text-Classification/blob/main/images/model.png?raw=true)
 
 # Model Performance
+
+![Tensorboard](https://github.com/Nesan135/Multi-class-Text-Classification/blob/main/images/performance.png?raw=true)
 ![Tensorboard](https://github.com/Nesan135/Multi-class-Text-Classification/blob/main/images/acc.png?raw=true)
 ![Tensorboard](https://github.com/Nesan135/Multi-class-Text-Classification/blob/main/images/loss.png?raw=true)
 
