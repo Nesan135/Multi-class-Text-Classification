@@ -11,20 +11,20 @@ LSTM to classify articles into five classes using BBC text data, which contains 
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 
 # Model Architecture
-![Model](https://github.com/Nesan135/Multi-class-Text-Classification/blob/main/src/model.png?raw=true)
+![Model](https://github.com/Nesan135/Multi-class-Text-Classification/blob/main/images/model.png?raw=true)
 
 # Model Performance
-![Tensorboard](https://github.com/Nesan135/Multi-class-Text-Classification/blob/main/src/performance.png?raw=true)
-![Tensorboard](https://github.com/Nesan135/Multi-class-Text-Classification/blob/main/src/performance.png?raw=true)
+![Tensorboard](https://github.com/Nesan135/Multi-class-Text-Classification/blob/main/images/acc.png?raw=true)
+![Tensorboard](https://github.com/Nesan135/Multi-class-Text-Classification/blob/main/images/loss.png?raw=true)
 
 # Classification Report
-![epoch_loss](https://github.com/Nesan135/Multi-class-Text-Classification/blob/main/src/epoch_loss.png?raw=true)
+![epoch_loss](https://github.com/Nesan135/Multi-class-Text-Classification/blob/main/images/clr.png?raw=true)
 
 # Confusion Matrix
-![epoch_loss](https://github.com/Nesan135/Multi-class-Text-Classification/blob/main/src/epoch_loss.png?raw=true)
+![epoch_loss](https://github.com/Nesan135/Multi-class-Text-Classification/blob/main/images/cfm.png?raw=true)
 
 ## References
 <a id="1">[1]</a> 
-Dataset source : https://github.com/MoH-Malaysia/covid19-public
+Dataset source : https://github.com/susanli2016/PyCon-Canada-2019-NLP-Tutorial
 
 <a id="2">[2]</a> Markdown source : https://github.com/Ileriayo/markdown-badges
